@@ -8,6 +8,8 @@ I've created a website, which fetches Random User Data from an API to give users
 
 As an advocate for mental health, I wanted to create a website where users can easily find a mental health therapist. Users are introduced to the homepage, which explains the service. Then, users are prompted to search for a therapist, which they can do by clicking "Get matched now!" or the "Find a Therapist" button in the navigation.
 
+<img src="images/button.png" width="350">
+
 
 ## Design
 
